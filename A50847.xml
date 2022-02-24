@@ -1,0 +1,467 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The countrymans friend, and no circumventing mountebanck But a rare method of chyrurgery and physick, teaching the country people excellent cures, the likewas [sic] never laid open in any age before. Besides here are four arts, three, of them concerning horses, and the fourth an art to keep a field of corn from any manner of fowles, that devour grain, this art is only by anointing a few crow feathers, for neither pidgeon, sparrow, rook nor crow will endure the field where they stick. By Abraham Miles.</title>
+            <author>Miles, Abraham.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50847</idno>
+            <idno type="STC">Wing M2041</idno>
+            <idno type="STC">ESTC R217818</idno>
+            <idno type="EEBO-CITATION">99829461</idno>
+            <idno type="PROQUEST">99829461</idno>
+            <idno type="VID">33901</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50847)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33901)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1920:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The countrymans friend, and no circumventing mountebanck But a rare method of chyrurgery and physick, teaching the country people excellent cures, the likewas [sic] never laid open in any age before. Besides here are four arts, three, of them concerning horses, and the fourth an art to keep a field of corn from any manner of fowles, that devour grain, this art is only by anointing a few crow feathers, for neither pidgeon, sparrow, rook nor crow will endure the field where they stick. By Abraham Miles.</title>
+                  <author>Miles, Abraham.</author>
+               </titleStmt>
+               <extent>[40] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for E. Andrews at the White Lyon neer Pye-corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B C⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+               <term>Medicine, Popular --  Early works to 1800.</term>
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term>Agriculture --  Handbooks, manuals, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33901:1" rendition="simple:additions"/>
+            <p>THE Countrymans Friend, AND No circumventing Mountebanck</p>
+            <p>But a rare method of Chyrur<g ref="char:EOLhyphen"/>gery and phyſick, teaching the coun<g ref="char:EOLhyphen"/>try people excellent cures, the like was never laid open in any age before.</p>
+            <p>Beſides here are four arts, three of them concerning horſes, and the fourth an art to keep a Field of corn from any manner of Fowles, that devour grain, this art is only by anointing a few Crow feathers, for nei<g ref="char:EOLhyphen"/>ther Pidgeon, Sparrow, Rook nor Crow will en<g ref="char:EOLhyphen"/>dure the Field where they ſtick.</p>
+            <p>By ABRAHAM MILES,</p>
+            <p>London printed for <hi>E. Andrews</hi> at the <hi>White Lyon</hi> neer Pye-corner, 1662.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:33901:2"/>
+            <pb facs="tcp:33901:2"/>
+            <head>The Epiſtle to the Reader.</head>
+            <p>FRiends, whoſoever you are that ſhall ob<g ref="char:EOLhyphen"/>tain the rules of my practice, which are laid open to the view of people, and not hid and kept cloſe as it is the uſe of ſome Phyſitians, and Chyrurgeons, becauſe they love darknes rather then light, &amp; many peo<g ref="char:EOLhyphen"/>ple there are who are loſt for want of help, that have not a great deal of mony to give for a ſmal cure; theſe corrupt wretches will in no wiſe help the ſick nor the lame, no more then <hi>Dives</hi> did help <hi>Lazarus</hi> in the time of his neceſſity; if we would but regard, we have the holy Scripture to enlighten our hearts to charity, and to be pitiful-hearted one towards another, Mat. <hi>24.</hi> but we are in cruelty one towards ano<g ref="char:EOLhyphen"/>ther; Sure the Judgment day is drawing near at hand; is not this one of they moſt e<g ref="char:EOLhyphen"/>vident ſigns? For as much ſaith he, as iniquity
+<pb facs="tcp:33901:3"/>ſhall abound, the love of many ſhall wax cold; when did iniquity ever ſo abound? when was the love of men ever ſo cold to<g ref="char:EOLhyphen"/>wards the poor? how many now in ſo great a multitude do cloath the poor, naked creatures of God with canvas and rugg; they give ſhooes of ſilver and gold, and ſet with rich ſtones, to dumb Ma<g ref="char:EOLhyphen"/>homets; but who now giveth ſhooes of lea<g ref="char:EOLhyphen"/>ther to the poor? O too much unmercifulnes! can theſe things eſcape unplagued? re<g ref="char:EOLhyphen"/>member well this ſaying is truth, He that is well needs not the Phyſitian, but he that is ſick; But they may be ſick and recover as they can, for any help they ſhal have, with<g ref="char:EOLhyphen"/>out great ſtore of mony to pay for the cure: But here is an eaſie way for thee to work by to help thy ſelf in time of neceſſity of any deſperate impediment, and at a very eaſie rate to help thee or thy friend, and thou mayſt gain both love and profit; and the purer thou doſt lead thy life, the more God will bleſs that which thou doth under<g ref="char:EOLunhyphen"/>take.</p>
+            <p>And theſe are the diſeaſes a follow<g ref="char:EOLunhyphen"/>eth in the next pages.</p>
+         </div>
+         <div type="list_of_diseases">
+            <pb facs="tcp:33901:3"/>
+            <head>A Catalogue of the diſeaſes cured in the Book following.</head>
+            <list>
+               <item>TO prevent ſickneſs.</item>
+               <item>For convulſion fits.</item>
+               <item>For falling-ſickneſs.</item>
+               <item>For corns in the feet.</item>
+               <item>For old ſores,</item>
+               <item>For broken bellies.</item>
+               <item>For a Timpany.</item>
+               <item>For melancholy.</item>
+               <item>For the ſtone in the kidneys.</item>
+               <item>For the Stone-colick.</item>
+               <item>For the Rickets.</item>
+               <item>For the Thruſh in the mouth.</item>
+               <item>For a Cancer in the mouth.</item>
+               <item>For a Quinzey, or ſore throat.</item>
+               <item>For difficultie of breath.</item>
+               <item>For a Rhume-Meager.</item>
+               <item>For hot watery rhumes in the eys.</item>
+               <item>For ſore eys.</item>
+               <item>
+                  <pb facs="tcp:33901:4"/>
+For a green wound.</item>
+               <item>For the running of the reins.</item>
+               <item>For the Falling of the Fundament.</item>
+               <item>For the bleeding at the Noſe.</item>
+               <item>For the Spleen.</item>
+               <item>For a Pluriſie.</item>
+               <item>For the Worms.</item>
+               <item>For the Warts.</item>
+               <item>For the Joynt-evil.</item>
+               <item>For the French Pox.</item>
+               <item>For the Chin Cough.</item>
+               <item>For the Dropſie.</item>
+               <item>For the Wind-collick.</item>
+               <item>For a Wolf in the breaſt.</item>
+               <item>For the Itch.</item>
+               <item>For to preſerve a horſe from any diſeaſe.</item>
+               <item>To cure a horſe of the red water.</item>
+               <item>For to cure a horſe of the Mourning of the Chine.</item>
+               <item>For to ſcare fowls, that devour grain in the field.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="remedies">
+            <pb facs="tcp:33901:4"/>
+            <head>The Country mans friend, and no circumventing Mounte-bancke.</head>
+            <div type="remedy">
+               <head>Here is a rare way to prevent any manner of ſick<g ref="char:EOLhyphen"/>neſs whatſoever.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Ake milk new from the Cow, about the quantity of a halfe pint porringer full; and if it be not warm enough of it ſelf, ſet it a little while upon ſome warm embers, and then you muſt have the quantity of halfe a penny worth of Saffron, tyed up in a little holland rag, and that end of the rag as the Saffron lieth in, dip it into the milk, and ſqueez the end of the rag that it may drop into the milk, ſo dip the Saffron rag into it ſix or ſeven times, one after another; every time you ſqueez the rag, you muſt do it with your thumb and fore-finger, and when you have ſo done, lay your Saffron
+<pb facs="tcp:33901:5"/>rag aſide, and put a ſpoonful of life hony into it, and ſtir it with a ſpoon, and when your ho<g ref="char:EOLhyphen"/>ney is diſſolved, let the party that is ill drink it up, and this take when they find themſelves firſt amiſs; it prevents almoſt any deſeaſe and drives away evil humours from the heart and is a rare deſenſiive, it prevents either Pox or Plague, or any other cruel diſeaſes; taking this potion but three mornings and three evenings. <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>A rare way to cure the convulſion Fits.</head>
+               <p>YOu that are troubled with convulſion fits, obſerve this rule; that it is the beſt time at the new of the Moon, or after the full, to begin to take any thing againſt the convulſion fits, take your Elethergie of gold as much at a time as will lie on a groat; after you have made it into a powder, and put it into your broath, into any manner of broath, or milk, or poſſet-drink; always when you go to meals, or to your diet; And if the the party be curable, this cureth either man, woman, or child in a ſhort time. <hi>Probarum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>A certain and ſure way to cure the falling-ſick.</head>
+               <p>BEgin to take this, which I ſhall preſcribe here for the Falling ſickneſs, much about
+<pb facs="tcp:33901:5"/>the ſame time, as is above mentioned concern<g ref="char:EOLhyphen"/>ing the convulſion fits; Let the party that is afflicted, have a pye, and three young Ravens baked in it, or a pye with three young Jeas baked in it; and let the party ſo afflicted, eat of it three times a day, a little quantity at a time: take a handful of Sage, red Sage, and a quart of white Wine; if you cannot have it, take a quart of fair ſpring water, and boyl the Sage in it very gently, until it be boyled half away; They take it off, and ſet it a cooling, and when it is cold, put it into a glaſs, and if you can have it, put to it two grains of the Counteſs of Kents powder, &amp; that you may have at the Apothecaries; and when you go to uſe it, you muſt ſhake the glaſs a little, and drink the quantity of a quarter of a pint of it at a time, in an evening; this cured ſeveral of the Falling-ſickneſs. <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>A rare and eaſie way to cure corns in the feet.</head>
+               <p>IN the firſt place ſoak your corns in warm water, that will ſoften them, that you may cut them with eaſe, ſpread a plaiſter of <hi>Floſſunguentorum</hi> on a little thin bit of lambs leather, And ſo many corns as you have, make ſo many little plaiſters to cover the places where the corns are; the plaiſters will ſtick faſt, and in one day it will ſoften them, that you
+<pb facs="tcp:33901:6"/>may cut them at your eaſe, then you muſt have a little unſlact Lime, and the beſt crown ſoap mixt together; a little quantity of each will ſerve the turn; then lay a little of this on each corn that is ready cut, and open a Raiſin of the Sun, to lay over each place; where you have laid your ſoap and Lime, then wrap a linnen cloath about your foot, and make it faſt; and this art kils the corn to the very root, and makes a perfect cure. <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>Here is a rare way to make a ſalve to cure old ſtink<g ref="char:EOLhyphen"/>ing ſores, Rotten and putrified, as old ſore legs, loath ſom-like gouts, or old ſores in other parts of the body.</head>
+               <p>TAke the quantity of a wine pint of Sallet oyl, and Linſeed oyle, and put them to<g ref="char:EOLhyphen"/>gether, then take a peny worth of red head and a peny worth of white Lead, and a peny worth of ſoft ſealing wax, and a peny worth of verdi<g ref="char:EOLhyphen"/>greaſe, put theſe with the other oyles into a pot that is well leaded; ſtir it about a little before you ſet it to the fire, then you ſhould have a ſpotellet; it is at one end like a ſpad; then your pot of ſalve being ſet to the fire, you muſt ſtir it conſtantly; it will change of ſeveral colours as it ſtands againſt the ſire; but when you preceive black ſpots ariſe in your ſalve; then it begins to be enough,
+<pb facs="tcp:33901:6"/>ſtir conſtantly, and when it is black all over, and riſeth all frothy, it is enough, then you muſt have a little bole or baſon almoſt full of fair cold water, to ſet the bottome of your ſalve pot into; this is to cool the heat of the ſalve, by ſetting the pot into the water, and ſtill you muſt keep it ſtirring, until it be cold; then it is ready for your uſe. You may ſpread this ſalve upon dry oaken leaves, or Primroſe leaves, or fine holland rags, or fine writing pa<g ref="char:EOLhyphen"/>per; and if the ſore be very broad, or long, you may ſpread it on London brown paper, and apply it to the ſore. There was of this ſalve ſent to the Hoſpital, and it cured ſuch ſores that the Cyhrurgeons did admire at the vertue of it, &amp; proffered many peices of gold for the receipt of it; But the authour of this book obtained the art in making this ſalve, by keep<g ref="char:EOLhyphen"/>ing a gentleman company, that uſed much to frequent the gentlemans houſe where this ſalve was made; this hath cured ſore legs that ſhould have been cut off. <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>Here is an excellent and rare way to cure broken<g ref="char:EOLhyphen"/>bellied children, either male, or female.</head>
+               <p>TAke half a handful of five-leaved graſs, and the roots with it, and half a handful of comferry roots, and half a handful of polli<g ref="char:EOLhyphen"/>podum, and half a handful of Sallowmans ſeal,
+<pb facs="tcp:33901:7"/>Pollipodum is fearn that groweth in an Oak tree; and halfe handful of knot graſs, and half a handful of webroad planten leaves; boyl theſe in five quarts of the ſtrongeſt wort, of the firſt ſhot, and let it boyl gently, until it be boyled halfe away, then take it off and ſet it a cooling, and when you ſee time put barm, yeſt, or quickening to it, call it what you will the thing is all one, and when it is ready to tun, as they do beer or ale, put it up into a pitcher or two Jug bottles, or what you have moſt convenient to keep it in, you muſt give it room to work, and afterwards keep it cloſe from the air, it will be the ſtronger; If it be a young child, give it this diet drink, as often in the day time as the child will take it, three ſpoonful at a time, if the party be of riper years let them take it three times a day, after break<g ref="char:EOLhyphen"/>faſt, after dinner, and after ſupper, the quanti<g ref="char:EOLhyphen"/>ty of a quarter of a pint at a time, then you muſt anoint the privy parts of the body twice a day with <hi>Oleum extrenſi,</hi> and you muſt have a Chaffing diſh of coals, ſtand neer to the bro<g ref="char:EOLhyphen"/>ken place of the belly, that the heat of the coals may dry in the ointment, you muſt uſe but lit<g ref="char:EOLhyphen"/>tle of your ointment at a time, and chafe it in with your hand very gently, do this twice a day, morning and evening, then fold up a double cloath, a linen cloath I mean, heat it hot and lay to the place defected; or if you will you
+<pb facs="tcp:33901:7"/>may bruiſe a little hemp-ſeed, and ſew it up in a cloath like a little purſe, heat it hot and lay it flat upon the place, tie it faſt up with a ſwade and if you will lay the party to bed, let the middle part of the body lye ſome thing higher then the head, and when they ſit up, let them ſit very ſoft, and you muſt have ſome little ſoft thing made with feathers, or wool to lye under the belly, as they ſit by the fire, or in any other place, you need not queſtion this curing either old or young with Gods help for the Author of this booke hath cured them that have been broken, and broken fifteen years, and by thy art hath made a perfect cure. <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>A rare way to cure a Timphany in the belly of Woman or Maid.</head>
+               <p>TAke half a handful of Sentary, and boyl it in two quarts of ſtrong Ale, until it be boyled to one quart, and drink halfe a quarter of a pint at a time, and follow this conſtantly, and in a ſhort time this will do the cure. <hi>Pro<g ref="char:EOLhyphen"/>batum eſt,</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>To cure Melancholy.</head>
+               <p>TAke a little quantity of Pollipodum or Fern of the Oak, and boyl it in a little new milk,
+<pb facs="tcp:33901:8"/>and make a Poſſet; skim off the curd, and ſweeten the Poſſet-drink with a little hard Su<g ref="char:EOLhyphen"/>gar, and drink this often; and you that are trou<g ref="char:EOLhyphen"/>bled with Melancholy it will drive it clean a<g ref="char:EOLhyphen"/>way, and make you as jovial as ever you were melancholy before, <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>A very gallant way to cure the ſtone in the Kid<g ref="char:EOLhyphen"/>nies.</head>
+               <p>TAke a quart of ſpring water, and put into it a pound of the beſt life honey, and let it boyl until almoſt half of it be boyled away, keep this in a little earthen bottle or glaſs, and drink five ſpoonful faſting, and five after diner, and five after ſupper, and in a ſhort time this will give you eaſe, and cure you of that impediment. <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>Here is a rare way to cure the Stone-colick.</head>
+               <p>FIrſt you muſt take a pint of white Wine and have the back bone of a red herring beat to powder, and the weight of ſix pence in Holly<g ref="char:EOLhyphen"/>berries, beat to a powder, and the kirnels of Aſhen-keyes, beat to powder, and take as much of it as will lie on a groat, and put theſe powders into a pint of white Wine, and put into it an indifferent ſpoonful of the juice of Camomile, new preſt from the hearb, and let
+<pb facs="tcp:33901:8"/>the party either man or woman drink this at two or three draughts; if they can, let them drink the whole pint at one draught; this hath cured thoſe at three times taking, that hath ſpent ma<g ref="char:EOLhyphen"/>ny a pound in ſeeking far and neer for help, yet never could be eaſed of this cruel impedi<g ref="char:EOLhyphen"/>ment the Stone-colick, until they took this before mentioned, and this hath cured them in eight and fourty hours ſpace, to the admi<g ref="char:EOLhyphen"/>ration of many people. <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>Here is an excellent, and rare way to cure the Rickets in little children.</head>
+               <p>TAke halfe a handful of the middle peil of the bark of Sallowes, and half a handful of Tamerisk, and half a pound of Raiſins of the ſun three halfe peny worth of Liquoriſh, and a halfe peny worth of Aniſeeds, and a quarter of a handful of Maiden hair; boyl theſe in four quarts of ſt ong Wourt until it be boyled to two quarts, then ſtrain it out very clean, and ſet it a cooling, then barm it as you do beer, and when it is worked skim off the barm, then tun it up into a cloſs Veſſel, a Pitcher of two quarts, or two Jugs, and at three day end it is for you uſe, give it the child, either boy or girl, morning and evening, the quantity of a quarter of a wine pint at a time, and give the child a little of this diet-drink often in the day time, after any maner of diet.</p>
+            </div>
+            <div type="remedy">
+               <pb facs="tcp:33901:9"/>
+               <head>Another for the ſame.</head>
+               <p>TAke three or four peny worth of Parma<g ref="char:EOLhyphen"/>ceti, and half an ounce of the oyl of Cap<g ref="char:EOLhyphen"/>has and two peny worth of Muskadine, put theſe into a Viol-glaſs, and when you go to a<g ref="char:EOLhyphen"/>noint, the child ſhake that which is in the glaſs well together, and anoint the breaſt, the bow of the armes, the wriſts, the Reins of the back, the hams, and the anckles, every morning and every night.</p>
+               <p>This diet drink and ointment, hath cured poor lame and weak children, that could nei<g ref="char:EOLhyphen"/>ther ſtand nor go; The Author of this book hath proved it in practice on a hundred ſeve<g ref="char:EOLhyphen"/>ral children. <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>Here is a rare way to cure either Thruſh or Cancer, in the mouth of a child.</head>
+               <p>TAke a quarter of a pint of fair ſpring wa<g ref="char:EOLhyphen"/>ter, and put as much Roman-viteral as the quantity of a white peaſe, break it to powder in a little white paper, &amp; put it into the water, and having a rag, or linen tide about a ſtick not ſo big, as a hand-cudgel, a little ſtick, I mean dip the little ſtick with the rag tide about it, into the water, and ſtir the water, and Romanvite<g ref="char:EOLhyphen"/>ral together, and then rub then childs mouth,
+<pb facs="tcp:33901:9"/>but not ſo hard as a man would rub a horſe heels; but rub the mouth of the child very gently and this will cure it.</p>
+               <p>Probatum eſt.</p>
+               <p>You may have this Romanviteral at the Apothecaries, four peny worth, or ſix pe<g ref="char:EOLhyphen"/>ny-worth will ſerve the turn, and do the cure, this cure is performed, at halfe a doſen times dreſſing, the time is every morning and every night.</p>
+            </div>
+            <div type="remedy">
+               <head>A moſt ſure way to cure a ſwelling in the throat, called the Quinzy.</head>
+               <p>TAke halfe a handful of Mugwort, and heat it between two tilſors in a fire Showel and lay it as hot all under the throat, as the party can ſuffer it, if there be any ſwelling betwixt the ear and the throat which is called the aumuns of the ears falling down, ſpread two plaiſters of Burgany pitch, upon two little holland cloaths, an inch and halfe long, and halfe an inch broad, and then lay one end to the lower part of the ear, and the other end toward the throat; ſo likewiſe lay a plaiſter on the other ſide, juſt up<g ref="char:EOLhyphen"/>on the place that is ſwelled, which is called the aumuns of the ears, then lay on the Mugwort as hot as you can ſuffer it; do this at a night when you go to bed, then waſh and gargle the mouth
+<pb facs="tcp:33901:10"/>throat with a little Romanviteral, called the Celeſtial ſtone, and this will cure you in two or four hours ſpace, keeping your ſelf warm. <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>A rare and excellent way to cure the difficulty of breath or the heaving of the Lungs.</head>
+               <p>THere is a long herb, or plant that grows common almoſt in every hedg; it runs long like a vine, but the leaves are very broad, of a dark green colour, it is called amaradulſis and ſome cals it woody-might ſhade, it is govern<g ref="char:EOLhyphen"/>ed under <hi>Mercury;</hi> take a pound of the leaves and ſtalks together, and bruiſe them a little, then put them into three pints of White wine, and let it ſtand and infuſe by the fire very gent<g ref="char:EOLhyphen"/>ly in an earthen pot covered with embers a<g ref="char:EOLhyphen"/>bout it; it muſt infuſe twelve hours, then take it off, and if you will you may put a quarter of a pound of Sugar candie; and when it is cold, you may uſe it; you may take the quantitie of a quarter of a wine pint morning and evening, and once at noon after dinner; this hath cured ſeveral men and women of the heaving of the lungs, that could not get help from any before. <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <pb facs="tcp:33901:10"/>
+               <head>Here is a rare way to cure the Rhume Meger, or wind Meger; which is a dizng giddineſs in the head of man or woman, or younger people.</head>
+               <p>TAke fine Flaxen cloath, new Flaxen cloath, and make it juſt the compaſs of the fore<g ref="char:EOLhyphen"/>head, from temple to temple, and when you have ſo done, then take your Flax cloath, and ſpread it on a board, then ſpread a quarter of a handful of Flax-hurds, or Flax-tow on the top of your Flax cloath, juſt the ſame compaſs, and with your hand pat it down together ve<g ref="char:EOLhyphen"/>ry cloſe upon the flaxen cloath, and wipe in any looſe hurds that you ſee round the edges of the plaiſter, with the back of the knife, then having the white of a new laid egg, ready beat in a diſh with a ſpoon, ſpread with the ſpoon the white of the egg all over the Flax hurds; then having your <hi>Sanguis draconis</hi> beat to powder, ſtrew the <hi>Sanguis draconis</hi> all over the white of the egg, then lay this plaiſter to the forehead, and pin it on with a cloath, and let it lie twenty four hours on the forehead, then if it be not looſe, let it lie untilit belooſe, then take it off. Two of theſe plaſters one after ano<g ref="char:EOLhyphen"/>ther hath cured ſome that have been blind with Rhume.</p>
+               <p>Probatum eſt.</p>
+            </div>
+            <div type="remedy">
+               <pb facs="tcp:33901:11"/>
+               <head>Here is a rare medicine for hot watry Rhumes in the eyes; or ſore eyes.</head>
+               <p>TAke a bit of Roach-allum about the big<g ref="char:EOLhyphen"/>neſs of a Pigeons egg, or a ſmal walnut; then take a new laid egg, and break the white of it into a clean diſh, then take your Roach-Allum, and ſtir the white of the egg about in the diſh very luſtily for a quarter of an hour until it be very thick and curdled, it will ſeem like white bread and milk beat together, take this, and with your finger wipe it upon your eye, and into your eye; and lying on your back; let it diſolve in the eyes for a quarter of an hour at a time; in the morning, and at noon, and at night; you may uſe the plaiſter before mentioned, with this if you pleaſe, or this of it ſelf, according as you ſee occaſion. Friends, whoſoever you are, that ſhall make uſe of this art, it will by Gods bleſſing help you; and the Author of this book hath cured them with this art, that hath been almoſt blind with Rhume.</p>
+               <p>Probatum eſt.</p>
+            </div>
+            <div type="remedy">
+               <pb facs="tcp:33901:11"/>
+               <head>Another rare medicine for the eyes.</head>
+               <p>TAke the juice of plantan the herb is govern<g ref="char:EOLhyphen"/>ed under Venus; and a peny worth of eie<g ref="char:EOLhyphen"/>bright water; take of each a like quantity, and put theſe into a little Vial-glaſs, and then put therein a little Romanviteral, or the Celeſtial ſtone; as much as the quantity of a gray peaſe, and put it into the glaſs or vial, and let it diſ<g ref="char:EOLhyphen"/>ſolve in the juice and water; then when you go to dreſs your eyes, ſhake the Vial a little; dreſs your eies as occaſion ſhall ſerve, and your own diſcretion uide you; you may dreſs your eyes at morning, and at noon, and at night, if your eyes be very hot; dreſs them more oft; this is a curing ſovereign medicine for the eyes, and hath done good to many both men, women, and children. <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>A rare way to cure a green wound.</head>
+               <p>TAke two peny worth of good ſack and waſh the ſore with it twice a day, mor<g ref="char:EOLhyphen"/>ning and evening, and dip your lint into the oyl of St. Johnswort, and bind it up, and this will heal a green wound that is cut deep, more firm and ſound then balſum,</p>
+               <p>Probatum eſt.</p>
+            </div>
+            <div type="remedy">
+               <pb facs="tcp:33901:12"/>
+               <head>Here is a rare way for the curing the Gonorhea or Running of the reins.</head>
+               <p>IN the firſt place, if you miſtruſt, you have caught the Running of the reins by keeping company with any foul or unclean perſon; go this way to work, firſt, either to help your ſelfe, or your friend, Take a dram of <hi>Pulvus-ſanctus,</hi> In Engliſh, holly powder; and put this pow<g ref="char:EOLhyphen"/>der into half a pint of dear poſſet drink, and ſur it about with a knife; and then drink it up, and then take good ſtore of poſſet drink after, that it may cauſe the purge to work lu<g ref="char:EOLhyphen"/>ſtily; you muſt begin alwayes to take a purge in a morning faſting, but if you are of a ſtrong conſtution, I would wiſh you to take a dram of <hi>Extractum <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rudi,</hi> and make it into four or five little pils, and drink either poſſet-drink, or ſtrong Ale, or Beer to cauſe it to work, then after it hath worked well, take ſome warm broath made on purpoſe; theſe purges purge choller from the cheſt, and ſlime from the guts, and wrinſeth and waſheth the reins of the back, &amp; prepares the body fit for that which is reſtraining or reſtringing. Now in the ſecond place if you would ſeek to ſtop this flux, called the Running of the reins; take a good hand<g ref="char:EOLhyphen"/>ful of Yarow, Milfoyl, Noſe-bleed, or Thou<g ref="char:EOLhyphen"/>ſand
+<pb facs="tcp:33901:12"/>leafe, it hath all theſe names, but it is com<g ref="char:EOLhyphen"/>monly called Yarow, take a good handful of this green herb, and put it into a Morter, and bruiſe it with a peſtle, and when you have well beat it, or bruiſed it, put to it the quantity of a pint of good freſh ſmall beer, and ſtir it al<g ref="char:EOLhyphen"/>together, then take a thin cloath, and ſtrain it thorow, and then put it into a Vialglaſs, or a little cloſe jug bottle, and put to it two oun<g ref="char:EOLhyphen"/>ces of the beſt hard Sugar, and let the Sugar diſſolve in it, and when you go to uſe it, ſhake it together, and the quantity that you muſt take is as followes; if the day be very hot take a ſpoonful at a time often in the day time, or otherwiſe three times a day; The Author of this book, hath applied this medicine as faſting in a morning three ſpoonfuls, three ſpoonfuls at noon, after diner, and three ſpoonfuls after ſupper, this hath cured men and women; that ſeveral noted Phyſiti<g ref="char:EOLhyphen"/>ans hath left, and could not cure.</p>
+               <p>
+                  <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>Here is another way for to cure the Gonorhea, or the running of the reins.</head>
+               <p>TAke Cipreſs Turpentine, or Venus Tur<g ref="char:EOLhyphen"/>pentine, to the quantity of two ounces and put to it the quantity of three meaſured
+<pb facs="tcp:33901:13"/>ſpoonful of clear ſpring water; and then ſtir it well together with the point of a knife, until it be white; this is called waſhing of Turpentine or if you be ſo well provided, inſtead of wa<g ref="char:EOLhyphen"/>ſhing it with water, waſh it with the juice of Lemond, and you muſt waſh it in a little white Gally pot, and let it ſtand in the ſame pot co<g ref="char:EOLhyphen"/>vered with a white paper; ſo you may take it three times a day, at the end of a knife point, an indifferent quantity at a time, or you may take it in little pils, rolled in Sugar, upon a trencher; and if you will you may add to it <hi>Sanguis draconis,</hi> or the blood of a Dragon beat to powder, and ſo you may mix it with the pils, and theſe pils worketh a gallant effect in man or woman, and it will do the cure.</p>
+               <p>
+                  <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>Another way to cure the Gonorhea, or running of the Reins.</head>
+               <p>TAke every Morning faſting, and every Evening after ſupper, as much as will lie on a ſhilling of the hard row of a red Herring dried, and beat to powder, and put it into a quarter of pint of beer, and drink it up; and often in the day time, drink your black double refined Roſin, it is clear like a glaſs, let it be beat to powder, and drink it; this hath cured
+<pb facs="tcp:33901:13"/>the foul diſeaſe, of the running of the Reins it ſelf. The Author of this book giveth notice to all people, both men and women, to obſerve this rule; thoſe that ſhall have occaſion to make uſe concerning this cure, if it be in win<g ref="char:EOLhyphen"/>ter to wear a warm red cloath next to the reins of the back; and if it be in Summer, wear next to the Reins of the back a plaiſter of Dioc<g ref="char:EOLhyphen"/>cula, ſpread upon a linnen cloath, about the length of your hand, and four fingers broad one plaiſter will ſtick on a week; this plaiſter is drying, and by Gods help performeth the cure.</p>
+               <p>
+                  <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>Here is a moſt excellent and rare way to cure the falling at the fundament, never the like laid o<g ref="char:EOLhyphen"/>pen before for the good of the Country.</head>
+               <p>IN the firſt place, for either man or child or what party ſoever that hath the impediment of the fundament falling down when they go to ſtool, they always void a great deal of blood; take the hearb knot graſs, it is as common as the high way, becauſe it groweth by the high way ſide, but the herb is as honeſt as if it grew in a Ladies garden, and as full of vertue; there is another herb groweth cloſe by; it is called Planten, not Bucks-horn Planten, but Webroad Planten, it is governed under Venus,
+<pb facs="tcp:33901:14"/>and under the ſign Libra a very honeſt herb; and helpeth Venus girls of many a looſe diſeaſe: But concerning our cure before men<g ref="char:EOLhyphen"/>tioned; Take Planten and Knot-graſs, and beat them in a morter with a peſtle; then ſtrain out the juice, and put it into a vial-glaſs, then that is ready for uſe; then the party afflicted with the diſeaſe before mentioned, let them take two ſpoonful of the juice, and a ſpoonful of good ſtrong ſack; mix them together, and drink this quantity morning and evening, and after dinner; if the party be paſt ſixteen, take it oftener in the day time; And likewiſe take three thin raſhers, or ſlices of Martelmaſs-beef And put, theſe three ſlices of Beef upon the Chaffing-diſh of coals, and the Caffing diſh in<g ref="char:EOLhyphen"/>to a cloſe ſtool and ſo it over it, and this is ſo ſtrong, and of ſuch vertue, that it will go quite through the body, when you breath, you will taſt the ſent of it in your mouth; do this of<g ref="char:EOLhyphen"/>ten, and with the help of God you will not miſs of the cure; The Author of this book hath cured them that hath been far and near before, and could get no help, and this hath cured them.</p>
+               <p>
+                  <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <pb facs="tcp:33901:14"/>
+               <head>An excellent way to cure deſperate bleeding at Noſe.</head>
+               <p>IF you be paſſing along on the high way and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bleed at Noſe, by reaſon of heat of travel, or by the heat of the Sun, take green nettles, or the roots, and bruiſe them, and put them to your Noſe, and ſnuf up the juice, or ſent in<g ref="char:EOLhyphen"/>to your head, and this will ſtop it; but if you be at home, and at no hard work or labour, and your Noſe do fall a bleeding, take the herb above mentioned, and apply firſt to the Noſe and if that will not ſtop it, tie thy left finger for thy right noſtril, and thy right finger for thy left noſtril, if an occaſion ſerve tie both; if that will not do let the party lie down back<g ref="char:EOLhyphen"/>ward, and have a cloath dipt in fair ſpring wa<g ref="char:EOLhyphen"/>ter and applie to the private parts of the body; <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mean to lay it cloſe too. If that will not do, take a toad dried in the ſun, and lay it on the bare cheſt of man or woman, if the party be a little fearful, as ſome maids are to looſe their maidenheads, but very few; wrap the toad in a fine thin white rag, and if it be for a woman or maid, they will like it the better, my rea<g ref="char:EOLhyphen"/>ſon is, the female ſex delighteth in clean lin<g ref="char:EOLhyphen"/>nen. But friends whoſoever you are that makes uſe of this book; theſe rules before
+<pb facs="tcp:33901:15"/>mentioned, will not fail you in time of need</p>
+               <p>
+                  <hi>Probatum eſt</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>A rare way to cure the Spleen or ſtiches in the ſide,</head>
+               <p>TAke black double refined Roſin, it is clear like glaſs, when you hold it againſt the light; take a little quantity of it a time and beat it to a powder, and take up as much of the powder at a time as willie upon a four peny piece, called a groat, and put it into a quarter of a pint of ſack, or ſtrong beer, or ale, and drink it quick, and it will give you eaſe imme<g ref="char:EOLhyphen"/>diately after you have taken it; and it will cauſe you to break wind immediately, and give you caſe; and this helpeth either man, or wo<g ref="char:EOLhyphen"/>man at a convenient time, with ſpeed.</p>
+               <p>
+                  <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>Here is a ſure and ſpeedy way to cure the Pluriſie in man, woman or child.</head>
+               <p>THE impediment of the Pluriſie is deſpe<g ref="char:EOLhyphen"/>rate, and will kill either man, woman or child, without they have a ſpeedy remedy; but this which I ſhall here preſcribe, it is moſt certain and true; Take Stone-horſe dung preſs forth the juice of it, and take one ſpoonful of it
+<pb facs="tcp:33901:15"/>and two ſpoonfuls of Aniſeed water; and ſtir them together in a little ear<g ref="char:EOLhyphen"/>then cup, or porringer, and let the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arty drink it up preſently, and it will give them eaſe, and taking of it three times one after another it cureth either man, woman or child of a Pluriſie ſpeedily without leting blood.</p>
+               <p>
+                  <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>A moſt ſure and ſpeedy way to cure chil<g ref="char:EOLhyphen"/>dren of the worms.</head>
+               <p>TAke a handful of the young buds of Aſhen<g ref="char:EOLhyphen"/>trees, you may know them from any other buds, for the outſide ſhews as black as Seacoal; take a handful of the buds before mentioned and a handful of unſet Hyſop, and half a hand<g ref="char:EOLhyphen"/>ful of wormwood, mix theſe together, and heat them very hot in a Fire-ſhovel, or between two tyles; then lay it to the childs belly, as hot as the child may ſuffer it; and bind it on with a cloath at night, and let it lie till the morning, and in the morning give the child three ſpoonfuls of new milk, and put a little of the ſeeds of Worm-wood into it, and bruiſe it before you put it into the milk; and ſtir them together; then give the child the milk and worm-ſeed, ſtirred together, the quantity
+<pb facs="tcp:33901:16"/>of three ſpoonful I mean the ſeeds of the com<g ref="char:EOLhyphen"/>mon worm-word, that growes almoſt in eve<g ref="char:EOLhyphen"/>ry place; this art cures children of the worms and cleanſeth the body, and cauſeth children to thrive very luſtily after the taking of it.</p>
+               <p>
+                  <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>A fine art to cure and kill all manner of Warts that groweth on the hands of men, women, or children.</head>
+               <p>THere is an herb grows by the high wayſide, it is called Arſſmart; one ſort of it hath a little black ſpot grows on it, I judge that the Planet Saturn hath ſome influence over it, but I mean the Arſſmart, that bears a green leafe, and it bites; if you bruiſe it, and it toucheth a<g ref="char:EOLhyphen"/>ny ſore; all you that have Warts, bruiſe the herb, and rub the Wart with it, and this will kill all Warts whatſoever.</p>
+               <p>
+                  <hi>Frobatum eſt,</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>A rare way to cure the Ioynt-evil, or other foul running ſores.</head>
+               <p>TAke a handful of the buds of Broom, and halfe a handful of Fenel, and half a hand<g ref="char:EOLhyphen"/>ful of Thime, mother Thime, or field Thime, and
+<pb facs="tcp:33901:16"/>half a handful of unſet Hyſop, and a quarter of a handful of Balm, and half a handful of Sage; boyl theſe in five ale quarts of fair ſpring wa<g ref="char:EOLhyphen"/>ter, until it be boyled to five pints, and let it boyl gently over a wood fire, and when it is cool, put it into ſome manner of Veſſel, that will keep it cloſs; as a ſmall Firkin or cloſs Pitcher, and take of this five ſpoonful in the morning, and three at noon, and five at night after ſupper. This hath cured three or four in a houſe, that have the diſeaſe they call the Kings-evil, before his Majeſty came into the Land; and now it doth cure the Joynt-evil, the Gout in the Joynts, and other foul diſea<g ref="char:EOLhyphen"/>ſes in the body; this hath cured ſeveral of theſe impediments, that never could get any help before.</p>
+               <p>
+                  <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>A rare art to cure the Morbus Gallicus, or the French Pox.</head>
+               <p>IN he firſt place purge your ſelf; and that you may do, and take but a dram of <hi>pulvus ſanctus,</hi> in halfe a pint of clear poſſet-drink, and the quantity of five pints of clear poſſet-drink, to to drink after; and if you are of a ſtronger con<g ref="char:EOLhyphen"/>ſtitution, take a dram of the extract of Rudi, and make it into five or ſix pills, acording
+<pb facs="tcp:33901:17"/>as you can Swallow them; and drink about five pints of good ſtrong beer luke warme, or as warm as milk from the Cow; that you may eaſily do, and ſet it againſt the fire; now after purging your ſelfe, do this, take the barke of an Aſhen tree, and pare off the outſide, and take the middle bark, as the Tanners do of Oake bark; if it be winter dry your bark in an Oven, but if it be Summer, dry it in the heat of the ſun; and when it is dry, ſweep your hearth clean, and ſet the ends of the bark upright, leaning one againſt another, then with a can<g ref="char:EOLhyphen"/>dle, or a peice of paper, ſet your Aſhen-bark on fire, and if you looke to the burning of it well, it will burn as white as chalk; and take theſe Aſhes, and have them ready about you in a box in your pocket; and you muſt have Apples, any manner of Apples ready roſted, and ever and anon, then dip an Apple into the aſhes and eat it, and in a ſhort time this will cure you of the French Pox, and none can tell for what diſeaſe you take it, this art hath cured them of the foul diſeaſe, the French Pox; that hath been at the Hoſpital, and could not have cure.</p>
+               <p>
+                  <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <pb facs="tcp:33901:17"/>
+               <head>For a Hoarſe cough, or a hooping cough, or other chin cough.</head>
+               <p>THere grows a ſtone very common on ma<g ref="char:EOLhyphen"/>ny plowed lands, ſome call it a hauk-bill ſtone, ſome call it a hod-mondod, ſome call it a kicks-foot ſtone; it growes in the manner of an oyſter ſhell, like to the great welflead oy<g ref="char:EOLhyphen"/>ſter-ſhel, take this ſtone and burn it in the fire, for the ſpace of five or ſix hours; then take it out, and beat it, and ſift it to a pure fine pow<g ref="char:EOLhyphen"/>der, and put to it half a penyworth of horſe ſpice, and put to it three half peny worth of white ſugar, and mix theſe together, and let the party that is afflicted with the cough, ei<g ref="char:EOLhyphen"/>ther man or woman, or child, take this and eat of it as often in the day time as you will, and it will cure them in a ſhort time; this is far bet<g ref="char:EOLhyphen"/>ter then a Apothecaries <hi>Lohoſamim,</hi> that they ſell for eight pence an ounce.</p>
+               <p>
+                  <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>A rare way to cure the dropſie.</head>
+               <p>TAke a wine quart of the aſhes of broom, and boyl them in four quarts of wormwood beer, or ale, and let it boyl until it comes to
+<pb facs="tcp:33901:18"/>two quarts, then let it ſettle, and let the clear be poured out from the thick, and put to it two peny worth of the power of Cinamon and take five ſpoonfuls faſting in the morning, and five ſpoonfuls at night; if you be very far gon take likewiſe three at noon, and this will cure you in a ſhort time.</p>
+               <p>
+                  <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>For the Wind-chollick.</head>
+               <p>TAke Lozanges Rute, or Dietrionpepe<g ref="char:EOLhyphen"/>rion, it is in Engliſh Lozenges three pop<g ref="char:EOLhyphen"/>pers aet theſe and you wild quickly find eaſe.</p>
+               <p>
+                  <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>A rare way to cure a womans breaſt of a Wolf.</head>
+               <p>TAke a little Romanviteral, and beat it to powder, then take a live Pidgeon and ſlit it in two, then take your celeſtial ſtone being beat to a power, &amp; ſtrew the Romanvi<g ref="char:EOLhyphen"/>teral all over the inſide of one half of your Pid<g ref="char:EOLhyphen"/>geon, and lay that preſently to the Wolfe to feed on, let it lie about an hour, and then take the other half of the Pidgeon, the feathers be<g ref="char:EOLhyphen"/>ing pickt off clean, and lay it on a Chaffin diſh
+<pb facs="tcp:33901:18"/>of coals, then hold the breſt over it, and the Wolfe will ſever immediately from the breaſt, by vertue of the Celeſtial ſtone, and drop into the Chaffin-diſh; then after this you may ſoake a little of the ſame Romanviteral in a little fair ſpring water, and waſh the breaſt morn<g ref="char:EOLhyphen"/>ing and evening, and lay a primroſe leafe to it, dipt in the oyl of <hi>St. Johns-wort,</hi> and Sallet oyl mixt together; and you muſt be ſure to keep your breaſt warm; and when you try this art, think of the Author of this book; for this hath cured many of this impediment to the admiration of many people.</p>
+               <p>
+                  <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>A fine art to cure the Itch.</head>
+               <p>TAke one peny worth of the Oyl of Roſes and two peny worth of Sallet oyl, and mix theſe both together in a little gally pot, or drinking pot, take green glaſs, and beat to a pure ſmal powder, and mix this with brim<g ref="char:EOLhyphen"/>ſtone beat to a powder; take theſe two pow<g ref="char:EOLhyphen"/>ders, and tie them up faſt in a little holland rag together; and let the powders tyed up in the rag, lie and ſoak in the oyles, and when you go to dreſs your ſelfe, take out the ball or rag tied up round like a ball, and gently rub the
+<pb facs="tcp:33901:19"/>wriſts and the bow of the arm, and the ſhare that is betwixt the lower part of the belly and the upper part of the inſide of the thigh, and anoint under your hams; do this morning and evening, and this will kill an itch in a very ſhort time, if it be to the bone. <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="remedies">
+            <pb facs="tcp:33901:19"/>
+            <head>Remedies for Horſes.</head>
+            <div type="remedy">
+               <head>Here is a rare way to make a drink to keep Horſe or Mare from any diſeaſe.</head>
+               <p>TAke three or four penyworth of ſquch in<g ref="char:EOLhyphen"/>greale, and in ſmall braſs morter, bruiſe it a little, and put it into a Skillet of ſtrong beer the quantity of a quart; take a little Roſe<g ref="char:EOLhyphen"/>mary and Hyope and a little green balm, and a little Fennel and Time, and ſhred all theſe to<g ref="char:EOLhyphen"/>gether, and put them into the Skillet, and half a pennyworth of Anniſeeds; let theſe boyl together, for the ſpace of half an hour, then take it from the fire, and when it is cold e<g ref="char:EOLhyphen"/>nough give it to horſe or mare; it prevents the Plague in the guts, or any other diſeaſes if they have ſtood in ſtables that are infected: All
+<pb facs="tcp:33901:20"/>you that are maſters of horſes, and ſhall make uſe of this, you will have little need of the Far<g ref="char:EOLhyphen"/>rier to drench your horſes, after you have made trial of this a little while; this is approved of by ſome gentlmen to be the beſt drink now in England, and a ſure defenſive for the heart.</p>
+               <p>
+                  <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>A rare art to cure a horſe of the Red-wa<g ref="char:EOLhyphen"/>ter, ſome cals it the ſtronge gullion.</head>
+               <p>VVHen you ſee the horſe have this diſ<g ref="char:EOLhyphen"/>eaſe, he will lie on his back, and kick with all four of his legs, and very much ſwell in his body; take two quarts of Cham<g ref="char:EOLhyphen"/>ber-lye, our ſtale, and bruiſe ſome Burdock-ſeeds, as many as will lie on a ſhilling, and put into the Chamber-lye, and give the horſe this with a horn, as ſoon as poſſible may be, then ſwich him up, and ride him for the ſpace of three quarters of an hour, then ſet him in the ſtable, and as ſoon as he doth ftal, he hath his cure.</p>
+               <p>
+                  <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <pb facs="tcp:33901:20"/>
+               <head>Here is a rare way to cure either horſe or mare of the mourning of the chine, if they are not too far ſpent.</head>
+               <p>TAke a pennyworth of Towſillagine, and a pennyworth of Uripigmentum, and as much of the powder of both of them as will lie on a ſhilling; put this to two ſpoon<g ref="char:EOLhyphen"/>fils of barly flower, and make it into three <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>kes, about the bigneſs of three half crowns, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay theſe on a chaffing diſh of wood coals, and cover them with a Tunnel, that the pipe of the Tunnel may convey the ſmoake into his no<g ref="char:EOLhyphen"/>ſtrils, then ride him for half an hour; do this morning and evening, and in ſhort time the cure will be perfect.</p>
+               <p>
+                  <hi>Probatum eſt.</hi>
+               </p>
+            </div>
+            <div type="remedy">
+               <head>Here is a rare way and neceſſary for country men to keep their corn from all manner of fowl that do devour corn in the field.</head>
+               <p>TAke two pennyworth of Staveſacre, and one pennyworth of gun-powder, and half
+<pb facs="tcp:33901:21"/>a penyworth of <hi>Sulphure,</hi> or brimſtone, and half a pennyworth of common Terpentine, mix all theſe together, and anoint it, at the end of crowes feathers, and ſtick here and there a crow feather at a lands end, and ſome tie at the end of a long ſtraw, cloſe under the ear of corn, and them that you ſtick on the ground you muſt ſtick with the quil end down<g ref="char:EOLhyphen"/>ward: This will fright all the fowls that de<g ref="char:EOLhyphen"/>vour corn; neither Pidgeon, Rooke, nor crow, nor Sparrow, will endure the field nor cloſe where theſe feathers ſtand, but will flie over the place as if they were frighted.</p>
+               <p>
+                  <hi>Probatum eſt.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
